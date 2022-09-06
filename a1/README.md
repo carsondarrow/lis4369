@@ -41,15 +41,15 @@ Three Parts:
 
 *Screenshot of Tip Calculator (IDLE)*:
 
-![Apache Installation Screenshot](img/tip_calculator_idle.png)
+![Apache Installation Screenshot](a1_tip_calculator/tip_calculator_idle.png)
 
 *Screenshot of Tip Calculator (VS Code)*:
 
-![JDK Installation Screenshot](img/tip_calculator_VS.png)
+![JDK Installation Screenshot](a1_tip_calculator/tip_calculator_VS.png)
 
 *Screenshot of Android Studio - My First App*:
 
-![Android Studio Installation Screenshot](img/android.png)
+![Android Studio Installation Screenshot](a1_tip_calculator/android.png)
 
 
 #### Tutorial Links:
