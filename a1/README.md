@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIs4381
+# LIs4369
 
 ## Carson Darrow
 
@@ -12,14 +12,14 @@
 Three Parts:
 
 1. Distributed Version Control with Git and Bitbucket
-2. Development installations
-3. Chapter Questions (Chs 1, 2)
+2. Development Installations
+3. Questions
 
 #### README.md file should include the following items:
 
-* Screenshot of Apache Installation 
-* Screenshot of running java Hello
-* Screenshot of running Android Studio - My First App
+* Screenshot of A1 Tip Calculator IDLE
+* Screenshot of A1 Tip Calculator VS Code
+* Screenshot of A1 Tip Calculator Jupyter Notebook
 * git commands with short descriptions
 * Bitbucket repo links
 
@@ -39,14 +39,13 @@ Three Parts:
 
 #### Assignment Screenshots:
 
-*Screenshot of Apache running http://localhost:8080/phpinfo.php*:
+*Screenshot of Tip Calculator (IDLE)*:
 
-![Apache Installation Screenshot](img/apache.png)
-![Apache Installation Screenshot](img/apache2.png)
+![Apache Installation Screenshot](img/tip_calculator_idle.png)
 
-*Screenshot of running java Hello*:
+*Screenshot of Tip Calculator (VS Code)*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+![JDK Installation Screenshot](img/tip_calculator_VS.png)
 
 *Screenshot of Android Studio - My First App*:
 
