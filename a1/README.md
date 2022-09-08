@@ -20,6 +20,7 @@ Three Parts:
 * Screenshot of A1 Tip Calculator IDLE
 * Screenshot of A1 Tip Calculator VS Code
 * Screenshot of A1 Tip Calculator Jupyter Notebook
+* Link to A1 ipynb file {a1_tip_calculator/tip_calculator.ipynb}
 * git commands with short descriptions
 * Bitbucket repo links
 
@@ -47,9 +48,9 @@ Three Parts:
 
 ![JDK Installation Screenshot](a1_tip_calculator/tip_calculator_VS.png)
 
-*Screenshot of Android Studio - My First App*:
+*Screenshot of Tip Calculator (JupyterNotebook)*:
 
-![Android Studio Installation Screenshot](a1_tip_calculator/android.png)
+![Android Studio Installation Screenshot](a1_tip_calculator_jupyternbook/android.png)
 
 
 #### Tutorial Links:
