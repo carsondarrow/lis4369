@@ -20,7 +20,7 @@ Three Parts:
 * Screenshot of A1 Tip Calculator IDLE
 * Screenshot of A1 Tip Calculator VS Code
 * Screenshot of A1 Tip Calculator Jupyter Notebook
-* Link to A1 ipynb file {a1_tip_calculator/tip_calculator.ipynb}
+* Link to A1 ipynb file [(a1_tip_calculator/tip_calculator.ipynb)]
 * git commands with short descriptions
 * Bitbucket repo links
 
