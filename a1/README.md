@@ -42,15 +42,15 @@ Three Parts:
 
 *Screenshot of Tip Calculator (IDLE)*:
 
-![Apache Installation Screenshot](a1_tip_calculator/tip_calculator_idle.png)
+![Tip Calculator IDLE](a1_tip_calculator/tip_calculator_idle.png)
 
 *Screenshot of Tip Calculator (VS Code)*:
 
-![JDK Installation Screenshot](a1_tip_calculator/tip_calculator_VS.png)
+![Tip Calculator Visual Studio](a1_tip_calculator/tip_calculator_VS.png)
 
 *Screenshot of Tip Calculator (JupyterNotebook)*:
 
-![Android Studio Installation Screenshot](a1_tip_calculator_jupyternbook/android.png)
+![Tip Calculator Jupyter](a1_tip_calculator/tip_calculator_jupyternbook.png)
 
 
 #### Tutorial Links:
