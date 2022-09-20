@@ -39,7 +39,7 @@ Three Parts:
 
 | Screenshot of Payroll Calculator 1 (JupyterNotebook) | Screenshot of Payroll Calculator 2 |
 | -------------- | --------------|
-| ![Payroll Calculator 1](img/payroll_jupyter1.png) | ![Payroll Calculator 2]img/payroll_jupyter2.png) |
+| ![Payroll Calculator 1](img/payroll_jupyter1.png) | ![Payroll Calculator 2]img/payroll_jupyter2png) |
 
 
 
