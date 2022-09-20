@@ -34,7 +34,7 @@ Three Parts:
 
 | Screenshot of Payroll Calculator No Overtime (VS Code) | Screenshot of Payroll Calculator Overtime (VS Code) |
 | -------------- | --------------|
-| ![Payroll Calculator No Overtime](img/payroll_no_overtime.png) | ![Payroll Calculator Overtime]i(mg/payroll_overtime.png) |
+| ![Payroll Calculator No Overtime](img/payroll_no_overtime.png) | ![Payroll Calculator Overtime](img/payroll_overtime.png) |
 
 
 | Screenshot of Payroll Calculator 1 (JupyterNotebook) | Screenshot of Payroll Calculator 2 |
