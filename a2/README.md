@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIs4381
+# LIs4369
 
 ## Carson Darrow
 
@@ -18,6 +18,7 @@ Three Parts:
 #### README.md file should include the following items:
 
 * Course title, your name, assignment requirements, as per A1
+* Link to A1 ipynb file [payroll_calc.ipynb](a2_payroll_calculator/payroll_calc.ipynb)
 * Screenshot of running application’s first user interface
 * Screenshot of running application’s second user interface
 * Bitbucket repo links
@@ -31,18 +32,22 @@ Three Parts:
 #### Assignment Screenshots:
 
 
-### Screenshot Recipe App:
-
-| Recipe App #1 | Recipe App #2 |
+| Screenshot of Payroll Calculator No Overtime (VS Code) | Screenshot of Payroll Calculator Overtime (VS Code) |
 | -------------- | --------------|
-| ![Screen 1 Screenshot](img/screen_1.png) ) | ![Screen 2 Screenshot](img/screen_2.png) |
+| ![Payroll Calculator No Overtime](img/payroll_no_overtime.png)) | ![Payroll Calculator Overtime]img/payroll_overtime.png) |
+
+
+| Screenshot of Payroll Calculator 1 (JupyterNotebook) | Screenshot of Payroll Calculator 2 |
+| -------------- | --------------|
+| ![Payroll Calculator 1](img/payroll_jupyter1.png) | ![Payroll Calculator 2]img/payroll_jupyter2.png) |
+
 
 
 ### Skillset #1 - #3:
 
 | Skillset #1 | Skillset #2 | Skillset #3 |
 | -------------- | --------------| -------------- |
-| ![Skillset #1](img/Even_or_Odd.png) | ![Skillset #2](img/largestNum.png) | ![Skillset #1](img/arrays_loops.png) |
+| ![Skillset #1](img/ss1.png) | ![Skillset #2](img/ss2.png) | ![Skillset #1](img/ss3.png) |
 
 
 
