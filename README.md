@@ -21,7 +21,9 @@
     - Provide git command descriptions 
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - 
+    - Create a2 Payroll Calculator
+    - Create a2 Payroll Calculator Jupyter Notebook
+    - Provide Screenshots of Installations
     
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - 
