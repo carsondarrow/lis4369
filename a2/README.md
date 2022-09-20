@@ -11,16 +11,16 @@
 
 Three Parts:
 
-1. Create mobile recipe app using Android Srudio
-2. Make recipe app different in some way
+1. Backward Engineer python program 
+2. Upload A2 ipynb file with working link
 3. Chapter Questions (Chs 3 4)
 
 #### README.md file should include the following items:
 
 * Course title, your name, assignment requirements, as per A1
 * Link to A1 ipynb file [payroll_calc.ipynb](a2_payroll_calculator/payroll_calc.ipynb)
-* Screenshot of running application’s first user interface
-* Screenshot of running application’s second user interface
+* Screenshot of Payroll Calculator in Visual Studio Code
+* Screenshot of Payroll Calculator in JuoyterNotebook 
 * Bitbucket repo links
 
 > This is a blockquote.
