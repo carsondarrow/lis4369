@@ -18,7 +18,7 @@ Three Parts:
 #### README.md file should include the following items:
 
 * Course title, your name, assignment requirements, as per A1
-* Link to A3 ipynb file [paint_estimate.ipynb](a3_paint_estimator/paint_estimate.ipynb)
+* Link to A3 ipynb file [paint_estimate.ipynb](a3_painting_estimator/paint_estimate.ipynb)
 * Screenshot of Paint Estimator in Visual Studio Code
 * Screenshot of Paint Estimator in JuoyterNotebook 
 * Bitbucket repo links
