@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIs4381
+# LIS4369
 
 ## Carson Darrow
 
@@ -11,65 +11,43 @@
 
 Three Parts:
 
-1. Create a database 
-2. Create an ERD with 10 unique records 
-3. Design an applications that user inputs how many tickets they want and get a price 
+1. Backward Engineer python program 
+2. Upload A3 ipynb file with working link
+3. Chapter Questions (Chs 5 6)
 
 #### README.md file should include the following items:
 
-* Screenshot of ERD
-* Screenshot of running application's opening user interface
-* Screenshot of running application's processing user input
-* Screenshot of 10 records for each table 
-
-* Link to a3.mwb
-[a3.mwb](docs/a3.mwb)
-
-* Link to a3.sql
-[a3.sql](docs/a3.sql)
-	
+* Course title, your name, assignment requirements, as per A1
+* Link to A3 ipynb file [payroll_calc.ipynb](a3_payroll_calculator/paint_estimate.ipynb)
+* Screenshot of Paint Estimator in Visual Studio Code
+* Screenshot of Paint Estimator in JuoyterNotebook 
+* Bitbucket repo links
 
 > This is a blockquote.
 > 
 > This is the second paragraph in the blockquote.
 >
 
-#### ERD:
 
-![ERD](img/ERD.png)
-
+#### Assignment Screenshots:
 
 
-#### Application  Running:
+Screenshot of Paint Estimator (VS Code)
+
+![Paint Estimator](img/paint_estimate.png)
 
 
-
-![video](img/concertapp.mov)
-
-
-### Screenshot:
-
-### Pet Store:
-
-![Pet Store](img/petstore.png)
-
-### Customer: 
-![Customer](img/customer.png)
-
-#### Pet:
-![Pet](img/pet.png)
+| Screenshot of Paint Estimator 1 (JupyterNotebook) | Screenshot of Paint Estimator 2 |
+| -------------- | --------------|
+| ![Paint Estimator 1](img/ipynb1.png) | ![Paint Estimator 2](img/ipynb2.png) |
 
 
 
+### Skillset #1 - #3:
 
-### Skillset #4 - #6:
-
-| Skillset #4 | Skillset #5 | Skillset #6 |
-| -------------- | --------------| --------------- |
-| ![Skillset #4](img/ss4.png) | ![Skillset #5](img/ss5.png) | ![Skillset #6](img/ss6.png) |
-
-
-
+| Skillset #1 | Skillset #2 | Skillset #3 |
+| -------------- | --------------| -------------- |
+| ![Skillset #1](img/ss1.png) | ![Skillset #2](img/ss2.png) | ![Skillset #1](img/ss3.png) |
 
 #### Tutorial Links:
 
