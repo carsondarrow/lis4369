@@ -45,9 +45,12 @@ Three Parts:
 
 ### Skillset #4 - #6:
 
-| Skillset #4 | Skillset #5 | Skillset #6 |
-| -------------- | --------------| -------------- |
-| ![Skillset #4](img/ss4.png) | ![Skillset #5](img/ss5.png) | ![Skillset #6](img/ss6.png) |
+| Skillset #4 | Skillset #5 |
+| -------------- | --------------|
+| ![Skillset #4](img/ss4.png) | ![Skillset #5](img/ss5.png) |
+
+Skillset #6 
+![Skillset #6](img/ss6.png) 
 
 #### Tutorial Links:
 
