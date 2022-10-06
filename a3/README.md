@@ -41,13 +41,16 @@ Screenshot of Paint Estimator (VS Code)
 | -------------- | --------------|
 | ![Paint Estimator 1](img/ipynb1.png) | ![Paint Estimator 2](img/ipynb2.png) |
 
+*Paint Esitmator(IDLE)*:
+![Paint Estimator ](img/paintIdle.png)
 
 
-### Skillset #1 - #3:
 
-| Skillset #1 | Skillset #2 | Skillset #3 |
+### Skillset #4 - #6:
+
+| Skillset #4 | Skillset #5 | Skillset #6 |
 | -------------- | --------------| -------------- |
-| ![Skillset #1](img/ss1.png) | ![Skillset #2](img/ss2.png) | ![Skillset #1](img/ss3.png) |
+| ![Skillset #4](img/ss4.png) | ![Skillset #5](img/ss5.png) | ![Skillset #6](img/ss6.png) |
 
 #### Tutorial Links:
 
