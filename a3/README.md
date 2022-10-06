@@ -32,17 +32,14 @@ Three Parts:
 #### Assignment Screenshots:
 
 
-Screenshot of Paint Estimator (VS Code)
-
-![Paint Estimator](img/paint_estimate.png)
+| Screenshot of Paint Estimator (VS Code) | Paint Estimator(IDLE) | 
+| -------------- | --------------|
+| ![Paint Estimator](img/paint_estimate.png) | ![Paint Estimator ](img/paintIdle.png) |
 
 
 | Screenshot of Paint Estimator 1 (JupyterNotebook) | Screenshot of Paint Estimator 2 |
 | -------------- | --------------|
 | ![Paint Estimator 1](img/ipynb1.png) | ![Paint Estimator 2](img/ipynb2.png) |
-
-*Paint Esitmator(IDLE)*:
-![Paint Estimator ](img/paintIdle.png)
 
 
 
