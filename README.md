@@ -43,8 +43,10 @@
     - Screenshots as per examples below.
     - Upload P1 .ipynbfile and create link in README.md;
     - Note: Before uploading .ipynbfile, be sure to do the following actions from Kernal menu:
+    \begin{itemize}
 	 \item[$\blacksquare$]Restart & Clear Output*
 	\item[$\blacksquare$] Restart & Run All*
+	\end{itemize}
 
 7. [P2 README.md](p2/README.md "My p2 README.md file")
     - 
