@@ -35,7 +35,6 @@
     
     
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - 
     \begin{description}
   \item[$\cdot$ bla1] item 1
   \item[$\bullet$ bla2] item 2
