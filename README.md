@@ -40,7 +40,12 @@
     
     
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    
+    *  Item 1
+    *  Item 2
+    *  Item 3
+        *  Item 3a
+        *  Item 3b
+        *  Item 3c
     
     
 6. [P1 README.md](p1/README.md "My p1 README.md file")
@@ -48,9 +53,14 @@
     - Screenshots as per examples below.
     - Upload P1 .ipynbfile and create link in README.md;
     - Note: Before uploading .ipynbfile, be sure to do the following actions from Kernal menu:
-	*  Restart & Clear Output
-	*  Restart & Run All
+        *  Restart & Clear Output
+        *  Restart & Run All
 
 	
 7. [P2 README.md](p2/README.md "My p2 README.md file")
-    - 
+    *  Item 1
+    *  Item 2
+    *  Item 3
+        *  Item 3a
+        *  Item 3b
+        *  Item 3c
