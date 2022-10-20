@@ -13,7 +13,7 @@ Three Parts:
 
 1. Assignment requirements, as per P1.
 2. Screenshots as per examples below.
-3. Upload P1 ipynb file [project1.ipynb](p1/project1.ipynb) and create link in README.md; Note: Before uploading .ipynbfile, be sure to do the following actions from Kernal menu:
+3. Upload P1 ipynb file [project1.ipynb](img/project1.ipynb) and create link in README.md; Note: Before uploading .ipynbfile, be sure to do the following actions from Kernal menu:
 	* Restart & Clear Output
 	* Restart & Run All
 	
