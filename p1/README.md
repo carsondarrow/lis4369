@@ -31,7 +31,7 @@ Three Parts:
 
 *Screenshot of Project 1 (IDLE)*:
 
-![Project 1](img/project1Idle.png)
+![Project 1](img/project1.png)
 
 ### Screenshot of Business Card running:
 
