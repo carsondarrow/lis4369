@@ -9,10 +9,11 @@
 *Course Work Links:*
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install Python
-    - Install R
-    - Install R Studio
-    - Install Visual Studio Code
+    - Installations: 
+        * Python
+        * R
+        * R Studio
+        * VS Code
     - Create a1 tip calculator application 
     - Create a1 tip calculator Jupyter Notebook
     - Provide Screenshots of Installations
