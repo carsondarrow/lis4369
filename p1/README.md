@@ -29,9 +29,9 @@ Three Parts:
 
 #### Assignment Screenshots:
 
-*Video of Business Card running*:
+*Screenshot of Project 1 (IDLE)*:
 
-![Business Card Video](img/businesscardvideocropped.mp4)
+![Project 1](img/preject1Idle.png)
 
 ### Screenshot of Business Card running:
 
