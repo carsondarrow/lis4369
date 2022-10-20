@@ -36,6 +36,15 @@ Three Parts:
 | -------------- | --------------|
 | ![Project 1](img/project1.png) | ![Project 1](img/project1Figure.png)
 
+**Screenshot of Project 1 (Jupyter Notebook)**
+
+![Project 1 ipynb](img/1ipynb.png)
+![Project 1 ipynb](img/2ipynb.png)
+![Project 1 ipynb](img/3ipynb.png)
+![Project 1 ipynb](img/4ipynb.png)
+![Project 1 ipynb](img/5ipynb.png)
+
+
 ### Screenshot of Skillsets:
 
 | Skillset 7 | Skillset 8 |
