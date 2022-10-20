@@ -31,12 +31,12 @@
     - Provide Screenshots of Installations
     
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-*  Item 1
-*  Item 2
-*  Item 3
-    *  Item 3a
-    *  Item 3b
-    *  Item 3c
+    *  Item 1
+    *  Item 2
+    *  Item 3
+        *  Item 3a
+        *  Item 3b
+        *  Item 3c
     
     
 5. [A5 README.md](a5/README.md "My A5 README.md file")
