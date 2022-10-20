@@ -32,6 +32,13 @@ Three Parts:
 
 #### Assignment Screenshots:
 
+**Screenshot of Project 1 (VS Code)**
+
+![Project 1 VS Code](img/VS1.png)
+![Project 1 VS Code](img/VS2.png)
+![Project 1 VS Code](img/VS3.png)
+![Project 1 VS Code](img/VSFigure.png)
+
 | Screenshot of Project 1 (IDLE) | Screenshot of Project 1 (IDLE) |
 | -------------- | --------------|
 | ![Project 1](img/project1.png) | ![Project 1](img/project1Figure.png)
