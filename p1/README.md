@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIs4381
+# LIS4369
 
 ## Carson Darrow 
 
@@ -11,10 +11,13 @@
 
 Three Parts:
 
-1. Create My Own Business Card
-2. Develop Understanding on How to Navigate Multiple Pages
-3. Chapter Questions (Chs 7, 8)
-
+1. Assignment requirements, as per P1.
+2. Screenshots as per examples below.
+3. Upload P1 project1.ipynb file and create link in README.md; Note: Before uploading .ipynbfile, be sure to do the following actions from Kernal menu:
+	* Restart & Clear Output
+	* Restart & Run All
+	
+	
 #### README.md file should include the following items:
 
 * Course title, Name, Assignment Requirements
@@ -29,15 +32,11 @@ Three Parts:
 
 #### Assignment Screenshots:
 
-*Screenshot of Project 1 (IDLE)*:
-
-![Project 1](img/project1.png)
-
-### Screenshot of Business Card running:
-
-| Business Card Front | Business Card Info |
+| Screenshot of Project 1 (IDLE) | Screenshot of Project 1 (IDLE) |
 | -------------- | --------------|
-| ![Business Card Front](img/businesscardfront.png) | ![Business Card Info](img/businesscardinfo2.png) |
+| ![Project 1](img/project1.png) | ![Project 1](img/project1.png)
+
+### Screenshot of Skillsets:
 
 | Skillset 7 | Skillset 8 | Skillset 9 |
 | -------------- | --------------| ------------- |
