@@ -34,12 +34,16 @@ Three Parts:
 
 | Screenshot of Project 1 (IDLE) | Screenshot of Project 1 (IDLE) |
 | -------------- | --------------|
-| ![Project 1](img/project1.png) | ![Project 1](img/project1.png)
+| ![Project 1](img/project1.png) | ![Project 1](img/project1Figure.png)
 
 ### Screenshot of Skillsets:
 
-| Skillset 7 | Skillset 8 | Skillset 9 |
-| -------------- | --------------| ------------- |
-| ![Skillset 7](img/ss7.png) | ![Skillset 8](img/ss8.png) | ![Skillset 9](img/ss9.png) |
+| Skillset 7 | Skillset 8 |
+| -------------- | --------------|
+| ![Skillset 7](img/ss7.png) | ![Skillset 8](img/ss8.png) | 
+
+*Skillset 9*
+
+![Skillset 9](img/ss9.png) 
 
 
