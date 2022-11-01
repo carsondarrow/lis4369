@@ -11,16 +11,18 @@
 
 Three Parts:
 
-1. Create an online portfolio web app
-2. Make sure all links are functional
-3. Provide screenshots of online portfolio
+1. Assignment requirements, as per A4.
+2. Screenshots as per examples below, including graph.
+3. Chapter Questions (Chs 7-8)
+
 
 #### README.md file should include the following items:
 
-* Screenshot of online portfolio main page
-* Screenshot of failed validation
-* Screenshot of passed validation
-* Links to local lis4381 web app: a) [Online Portfolio](http://localhost:8080/repos/lis4381/index.php)
+* Course title, your name, assignment requirements, as per A1
+* Link to A4 ipynb file [a4.ipynb](a4.ipynb)
+* Restart & Clear Output
+* Restart & Run All
+* Bitbucket repo links
 
 
 
