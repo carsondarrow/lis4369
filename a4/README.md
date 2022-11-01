@@ -39,8 +39,8 @@ Three Parts:
 
 ##### Jupyter Notebook
 
-| NoteBook | IDLE |
-| -------------- | | -------------- |
+| A4 NoteBook | A4 NoteBook |
+| -------------- | -------------- |
 | ![Main Page](img/1.png) | ![Main Page](img/2.png)
 
 
