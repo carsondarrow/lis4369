@@ -33,8 +33,8 @@ Three Parts:
 
 ###### Jupyter Idle
 
-| IDLE | IDLE |
-| -------------- | | -------------- |
+| A4 (IDLE) | A4(IDLE) | 
+| -------------- | --------------|
 | ![Main Page](img/1idle.png) | ![Main Page](img/2idle.png)
 
 ##### Jupyter Notebook
