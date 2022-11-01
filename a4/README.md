@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIs4381
+# LIS 4369
 
 ## Carson Darrow
 
@@ -31,14 +31,17 @@ Three Parts:
 
 #### Assignment Screenshots :
 
-###### Main Page
-![Main Page](img/mainpage.png)
+###### Jupyter Idle
 
-###### Failed Validation Page
-![Screenshot of failed validation](img/failure.png)
+| IDLE | 
+| -------------- | | -------------- |
+| ![Main Page](img/1idle.png) | ![Main Page](img/2idle.png)
 
-###### Passed Validation Page
-![Screenshot of passed validation](img/correct.png)
+##### Jupyter Notebook
+
+| NoteBook |
+| -------------- | | -------------- |
+| ![Main Page](img/1.png) | ![Main Page](img/2.png)
 
 
 
