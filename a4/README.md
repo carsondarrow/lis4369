@@ -33,13 +33,13 @@ Three Parts:
 
 ###### Jupyter Idle
 
-| IDLE | 
+| IDLE | IDLE |
 | -------------- | | -------------- |
 | ![Main Page](img/1idle.png) | ![Main Page](img/2idle.png)
 
 ##### Jupyter Notebook
 
-| NoteBook |
+| NoteBook | IDLE |
 | -------------- | | -------------- |
 | ![Main Page](img/1.png) | ![Main Page](img/2.png)
 
