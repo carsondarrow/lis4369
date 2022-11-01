@@ -34,8 +34,8 @@ Three Parts:
 ###### Jupyter Idle
 
 | A4 (IDLE) | A4(IDLE) | 
-| -------------- | --------------|
-| ![Main Page](img/1idle.png) | ![Main Page](img/2idle.png)
+| -------------- | -------------- |
+| ![Main Page](img/1idle.png) | ![Main Page](img/2idle.png) |
 
 ##### Jupyter Notebook
 
@@ -43,6 +43,12 @@ Three Parts:
 | -------------- | -------------- |
 | ![Main Page](img/1.png) | ![Main Page](img/2.png)
 | ![Main Page](img/3.png) | ![Main Page](img/4.png)
+| ![Main Page](img/5.png) | ![Main Page](img/6.png)
+| ![Main Page](img/7.png) | ![Main Page](img/8.png)
+| ![Main Page](img/9.png) | ![Main Page](img/10.png)
+| ![Main Page](img/11.png) | ![Main Page](img/12.png)
+| ![Main Page](img/13.png) | ![Main Page](img/14.png)
+| ![Main Page](img/15.png) | ![Main Page](img/16.png)
 
 
 
