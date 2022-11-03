@@ -32,12 +32,12 @@
     - Provide Screenshots of Installations
     
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-    *  Item 1
-    *  Item 2
-    *  Item 3
-        *  Item 3a
-        *  Item 3b
-        *  Item 3c
+    *  Create Data Analysis 2
+    *  Create Juypter Notebook and Idle Screenshots
+    *  Screenshot of Skillsets
+        *  Skillset 10: Using Dictionaries
+        *  Skillset 11: Random Number Generator
+        *  Skillset 12: Temperature Conversion Program
     
     
 5. [A5 README.md](a5/README.md "My A5 README.md file")
