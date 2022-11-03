@@ -7,20 +7,20 @@
 
 ## Carson Darrow
 
-### Assignment 3 Requirements:
+### Assignment 4 Requirements:
 
 Three Parts:
 
-1. Backward Engineer python program 
-2. Upload A3 ipynb file with working link
+1. Assignment requirements, as per A4.
+2. Screenshots as per examples below, including graph.
 3. Chapter Questions (Chs 5-6)
 
 #### README.md file should include the following items:
 
 * Course title, your name, assignment requirements, as per A1
-* Link to A3 ipynb file [paint_estimate.ipynb](a3_painting_estimator/paint_estimate.ipynb)
-* Screenshot of Paint Estimator in Visual Studio Code
-* Screenshot of Paint Estimator in JuoyterNotebook 
+* Link to A4 ipynb file [a4.ipynb](a4.ipynb)
+* Restart & Clear Output
+* Restart & Run All
 * Bitbucket repo links
 
 > This is a blockquote.

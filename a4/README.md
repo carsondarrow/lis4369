@@ -71,9 +71,9 @@ Three Parts:
 
 ### Skillset #10 - #12:
 
-| Skillset #10 |
-| -------------- |
-| ![Skillset #10](img/ss10.png) |
+| Skillset #10 | Skillset #10 |
+| -------------- | -------------- |
+| ![Skillset #10](img/ss10 part1.png) | ![Skillset #10](img/ss10 part2.png) 
 
 | Skillset #11 |
 | -------------- |
