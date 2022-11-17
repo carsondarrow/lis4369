@@ -39,7 +39,7 @@ Three Parts:
 | ![RStudio](r_tutorial/cylinder_count.png) | ![RStudio](r_tutorial/cylinder_count2.png) | ![RStudio](r_tutorial/cylinder_count3.png) | 
 
 ### Video of A5 RStudio
-![Video](img/lis4369_a5_rStudio.mp3)
+![Video](img/lis4369_a5_rStudio.mp4)
 
 
 
