@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIs4381
+# LIS4369
 
 ## Carson Darrow
 
@@ -14,13 +14,12 @@ Three Parts:
 1. Develop server-side validation of a form in php
 2. Develop a form that adds data into a database
 3. Chapter Questions (chs. 11, 12, & 19)
-4. Skill Set 13-15
+4. Skillset 13-15
 
 #### README.md file should include the following items:
 
 * Screenshot of index.php for the data in petstore
 * Screenshot of server-side data validation
-* Link to A5 PDF [myplotfile.pdf](My plot file)
 
 
 
@@ -33,7 +32,7 @@ Three Parts:
 
 | Screenshot of Learning RStudio Part 1: | Screenshot of Learning RStudio Part 2: 
 | -------------- | -------------- |
-| ![RStudio](img/RStudio.png) | ![RStudio](img/cylinder_count.png)
+| ![RStudio](img/RStudio.png) | ![RStudio](r_tutorial/cylinder_count.png)
 
 ### Passed Validation Page 1
 ![Valid](img/valid.png)
