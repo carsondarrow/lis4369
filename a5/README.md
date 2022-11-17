@@ -20,7 +20,7 @@ Three Parts:
 
 * Screenshot of index.php for the data in petstore
 * Screenshot of server-side data validation
-* Links to local lis4381 web app: a) [Online Portfolio](http://localhost:8080/repos/lis4381/a5/index.php)
+* Link to A5 PDF [myplotfile.pdf](My plot file)
 
 
 
@@ -31,11 +31,9 @@ Three Parts:
 
 ## Assignment Screenshots :
 
-### Failed Validation Page 1
-![Invalid](img/invalid.png)
-
-### Failed Validation Page 2
-![Failed Validation](img/failed.png)
+| Screenshot of Learning RStudio Part 1: | Screenshot of Learning RStudio Part 2: 
+| -------------- | -------------- |
+| ![RStudio](img/RStudio.png) | ![RStudio](img/cylinder_count.png)
 
 ### Passed Validation Page 1
 ![Valid](img/valid.png)
