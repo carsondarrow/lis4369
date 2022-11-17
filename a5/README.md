@@ -11,15 +11,14 @@
 
 Three Parts:
 
-1. Develop server-side validation of a form in php
-2. Develop a form that adds data into a database
-3. Chapter Questions (chs. 11, 12, & 19)
-4. Skillset 13-15
+1. Note all functions/commands from tutorial
+2. Take screenshots of Rstudio and accompanying charts
+3. Skillset 13-15
 
 #### README.md file should include the following items:
 
-* Screenshot of index.php for the data in petstore
-* Screenshot of server-side data validation
+* Screenshots of environement
+* Screenshots of accompanying charts
 
 
 
