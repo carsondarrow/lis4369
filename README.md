@@ -41,12 +41,12 @@
     
     
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    *  Item 1
-    *  Item 2
-    *  Item 3
-        *  Item 3a
-        *  Item 3b
-        *  Item 3c
+    *  Complete the following tutorial: Introduction_to_R_Setup_and_Tutorial (includes A5 requirements): Save as: learn_to_use_r.R
+    *  Code and run lis4369_a5.R. Include link to file in a5 README.md file.
+    *  Include pictures of graphs for different data 
+        *  Skillset 13: Sphere Volume Calculator
+        *  Skillset 14: Calculator with Error Handling
+        *  Skillset 15: File Write/Read
     
     
 6. [P1 README.md](p1/README.md "My p1 README.md file")
