@@ -30,12 +30,13 @@ Three Parts:
 
 ## Assignment Screenshots :
 
-| Screenshot of Learning RStudio Part 1: | Screenshot of Learning RStudio Part 2: 
-| -------------- | -------------- |
-| ![RStudio](img/RStudio.png) | ![RStudio](r_tutorial/cylinder_count.png)
+| Screenshot of Learning RStudio Part 1: | 
+| -------------- | 
+| ![RStudio](img/RStudio.png) | 
 
-### Passed Validation Page 1
-![Valid](img/valid.png)
+| Screenshot of Learning RStudio Part 2: | Screenshot of Learning RStudio Part 3: | Screenshot of Learning RStudio Part 4: |
+| -------------- | -------------- | -------------- |
+| ![RStudio](r_tutorial/cylinder_count.png | ![RStudio](r_tutorial/cylinder_count2.png) | ![RStudio](r_tutorial/cylinder_count.3png) | 
 
 ### Passed Validation Page 2
 ![Passed](img/passed.png)
