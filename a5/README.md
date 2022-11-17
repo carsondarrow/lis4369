@@ -36,7 +36,7 @@ Three Parts:
 
 | Screenshot of Learning RStudio Part 2: | Screenshot of Learning RStudio Part 3: | Screenshot of Learning RStudio Part 4: |
 | -------------- | -------------- | -------------- |
-| ![RStudio](r_tutorial/cylinder_count.png | ![RStudio](r_tutorial/cylinder_count2.png) | ![RStudio](r_tutorial/cylinder_count.3png) | 
+| ![RStudio](r_tutorial/cylinder_count.png) | ![RStudio](r_tutorial/cylinder_count2.png) | ![RStudio](r_tutorial/cylinder_count3.png) | 
 
 ### Passed Validation Page 2
 ![Passed](img/passed.png)
