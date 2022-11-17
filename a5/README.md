@@ -43,7 +43,7 @@ Three Parts:
 
 | Screenshot of Learning RStudio Part 2: | Screenshot of Learning RStudio Part 3: | Screenshot of Learning RStudio Part 4: | Screenshot of Learning RStudio Part 3: | Screenshot of Learning RStudio Part 4: |
 | -------------- | -------------- | -------------- |-------------- | -------------- |
-| ![A5 Part 1](img/A5_part1) | ![A5 Part 2](img/A5_par2.png) | ![A5 Part 3](img/A5_part3.png) | ![A5 Part 4](img/A5_part4.png) | ![A5 Part 5](img/A5_part5.png) | 
+| ![A5 Part 1](img/A5_part1.png) | ![A5 Part 2](img/A5_part2.png) | ![A5 Part 3](img/A5_part3.png) | ![A5 Part 4](img/A5_part4.png) | ![A5 Part 5](img/A5_part5.png) | 
 
 
 
