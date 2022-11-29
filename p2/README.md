@@ -40,7 +40,10 @@ Four Parts:
 ![Pannel](img/R.png)
 
 
+### Links to R Files
 
+ [project2.R](project2.R)
+[R Output](lis4369_p2_requirements_output.txt)
 
 
 
