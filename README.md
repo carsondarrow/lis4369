@@ -59,9 +59,10 @@
 
 	
 7. [P2 README.md](p2/README.md "My p2 README.md file")
-    *  Item 1
-    *  Item 2
-    *  Item 3
-        *  Item 3a
-        *  Item 3b
-        *  Item 3c
+    *  Use Assignment 5 screenshots and R Manual to backward-engineer the following requirements:
+    *  Resources:
+        * R Manual: https://cran.r-project.org/doc/manuals/r-release/R-lang.pdf 
+        * R for Data Science: https://r4ds.had.co.nz/
+    *  Use Motor Trend Car Road Tests data:
+        * Research the data!  https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html 
+        * url = "http://vincentarelbundock.github.io/Rdatasets/csv/datasets/mtcars.csv"
