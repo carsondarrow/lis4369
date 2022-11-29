@@ -13,11 +13,11 @@ Four Parts:
 
 1. Use Assignment 5 screenshots and R Manual to backward-engineer the following requirements:
 2. Resources:
-    a. R Manual: https://cran.r-project.org/doc/manuals/r-release/R-lang.pdf 
-    b. R for Data Science: https://r4ds.had.co.nz/
+     a. R Manual: https://cran.r-project.org/doc/manuals/r-release/R-lang.pdf 
+     b. R for Data Science: https://r4ds.had.co.nz/
 3. Use Motor Trend Car Road Tests data:
-    a. Research the data!  https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html 
-    b. url = "http://vincentarelbundock.github.io/Rdatasets/csv/datasets/mtcars.csv"
+    * Research the data!  https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html 
+    * url = "http://vincentarelbundock.github.io/Rdatasets/csv/datasets/mtcars.csv"
 
 
 #### README.md file should include the following items:
