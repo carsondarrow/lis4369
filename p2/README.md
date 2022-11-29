@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIs4381
+# LIS4369
 
 ## Carson Darrow
 
@@ -30,26 +30,13 @@ Four Parts:
 
 #### Assignment Screenshots:
 
-### Index.php
-![Index](img/index.png)
+### Plot Graphs
+![Graphs](img/Plot.png)
 
-### Edit Petstore 
-![Edit Petstore](img/EditPetstore.png)
+### R Studio Pannel
+![Pannel](img/R.png)
 
-### Failed Validation
-![Failed Validation](img/failed validation.png)
 
-### Passed Validation 
-![Passed](img/passed validation.png)
-
-### Delete Record Prompt 
-![Delete Record](img/delete record prompt.png)
-
-### Successful Delete Record 
-![Successful Delete Record](img/success delete record.png)
-
-### RSS Feed
-![RSS](img/rss feed.png)
 
 
 
